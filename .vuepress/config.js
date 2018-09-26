@@ -3,9 +3,6 @@ module.exports = {
   themeConfig:{
     nav: [
         { text: 'About Course', link: '/' },
-    ],
-    sidebar: [
-        
     ]
-}
+  }
 }
